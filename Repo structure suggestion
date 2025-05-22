@@ -1,0 +1,19 @@
+geospatial-python-projects/
+│
+├── 01-land-use-classification/
+│   ├── classify_land_use.py
+│   └── README.md
+│
+├── 02-upload-to-postgis/
+│   ├── upload_to_postgis.py
+│   └── README.md
+│
+├── 03-buffer-spatial-join/
+│   ├── buffer_and_join.py
+│   └── README.md
+│
+├── 04-flood-risk-map/
+│   ├── flood_risk_model.py
+│   └── README.md
+│
+└── README.md
