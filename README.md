@@ -29,6 +29,23 @@ Identify features within a defined buffer zone. Used to analyze grave locations 
 Simple model to map flood-prone areas based on elevation (DEM) and rainfall thresholds.  
 [🔗 View script](04-flood-risk-map/flood_risk_model.py)
 
+## Requirements
+
+Most projects require Python 3.x and the following libraries (install via pip):
+
+pip install rasterio numpy scikit-learn geopandas psycopg2 matplotlib
+
+
+---
+
+## Usage
+
+Each project folder contains a `README.md` with detailed instructions on how to run the corresponding script.
+
+---
+
+Feel free to explore and adapt these scripts for your own geospatial analyses and applications.
+
 ---
 
 ## 📬 Contact
